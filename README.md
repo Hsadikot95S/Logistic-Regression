@@ -10,6 +10,6 @@ The following metrixcs are obtained:
            1       0.84      0.88      0.86        41
 
     accuracy                           0.80        61
-   macro avg       0.78      0.76      0.77        61
-weighted avg       0.80      0.80      0.80        61
+    macro avg       0.78      0.76      0.77        61
+    weighted avg       0.80      0.80      0.80        61
 
